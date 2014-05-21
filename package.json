@@ -6,7 +6,7 @@
     "amazon",
     "s3"
   ],
-  "version": "0.8.10",
+  "version": "0.8.10-wiwo.1",
   "author": "TJ Holowaychuk <tj@learnboost.com>",
   "contributors": [
     "TJ Holowaychuk <tj@learnboost.com>",
@@ -24,7 +24,7 @@
     "mime": "*",
     "xml2js": "0.2.x",
     "debug": "~0.7.0",
-    "stream-counter": "~0.1.0"
+    "stream-counter": "~1.0.0"
   },
   "devDependencies": {
     "mocha": "*"
